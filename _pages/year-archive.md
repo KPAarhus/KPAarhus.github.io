@@ -1,6 +1,7 @@
 ---
-title: "Posts by Year"
-permalink: /posts/
+title: Alle artikler
+permalink: /artikler/
 layout: posts
-author_profile: true
+author_profile: false
+published: true
 ---

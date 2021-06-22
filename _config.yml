@@ -13,25 +13,31 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
+title                   : KPA
+email                   : 123@email.com
+description             : >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
-search: true
+url                     : "https://lahrendt.github.io"
+baseurl                 : "/test-kpa"
+minimal_mistakes_skin   : "air"
+search                  : true
+name                    : "KPA"
+#og_image                : "/assets/images/logo.png"  # Skal være min 120*120 og max 1 MB
+date_format             : "%-d/%-m %Y"
 
 # Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+markdown                : kramdown
+remote_theme            : mmistakes/minimal-mistakes
+
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink               : /:year/:month/:day/:title/
+paginate                : 5 # amount of posts to show
+paginate_path           : /side:num/
+timezone                : Europe/Copenhagen
+locale                  : "da-DK"
+words_per_minute        : 200
 
 include:
   - _pages
@@ -58,34 +64,21 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "KPA author name"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://aarhus.kommunister.dk/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: ""
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/"
 
 defaults:
   # _posts
@@ -94,22 +87,46 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
-category_archive:
-  type: liquid
-  path: /categories/
+#category_archive:
+#  type: liquid
+#  path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
+
+# Prose.io
+prose:
+  rooturl: '_posts'
+  #siteurl: 'http://prose.github.io/starter/'
+  #relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'assets/images'
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titel"
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Kort uddrag"
+          help: "Skriv evt. et kort uddrag/opsummering af artiklen (gerne under 160 tegn)."
+      - name: "splash"
+        field:
+          element: "text"
+          label: "Billede"
+          help: "Billede i toppen af artiklen. Skal starte med /assets/images/, fx /assets/images/IMG1234.jpg."

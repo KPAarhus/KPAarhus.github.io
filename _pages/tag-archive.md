@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
+title: "Artikler efter nøgleord"
 permalink: /tags/
 layout: tags
-author_profile: true
+author_profile: false
 ---
