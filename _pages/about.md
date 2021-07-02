@@ -1,6 +1,6 @@
 ---
 permalink: /om/
-title: Om os
+title: Hvem er Kommunistisk Parti Aarhus?
 published: true
 ---
 

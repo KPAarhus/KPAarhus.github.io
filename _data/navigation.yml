@@ -3,5 +3,5 @@ main:
     url: /
   - title: "Alle artikler"
     url: /artikler/
-  - title: "Om KPA"
+  - title: "Om os"
     url: /om/
