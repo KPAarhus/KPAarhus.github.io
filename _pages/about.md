@@ -6,6 +6,12 @@ published: true
 
 Vi er den aarhusianske partiafdeling af Kommunistisk Parti. Vi kæmper for et socialistisk velfærdssamfund med lige rettigheder til alle og et aktivt deltagerdemokrati.
 
+Vi driver også [Café Oskar](https://www.facebook.com/cafeoskar) i Mejlgade 49, som har åbent hver fredag fra 15.30 til 17.00.
+
+
+# Kommunistisk Parti nationalt
+
+*Du kan læse mere om Kommunistisk Parti på [kommunister.dk](https://kommunister.dk/), hvor du også kan søge om medlemskab.*
 
 Kommunistisk Parti er stiftet i 2006 og går ind for, at Danmark bliver et socialistisk samfund. Den eksisterende samfundsmodel duer simpelthen ikke.
 
@@ -24,5 +30,3 @@ Her er det arbejderne, folket, der råder over samfundsværdierne. Hensynet til 
 I Kommunistisk Parti er medlemmerne organiseret i partiafdelinger, hvor de kan få direkte indflydelse på partiets politik. Her kan man bidrage efter ens muligheder og få støtte til sit politiske arbejde. Kommunistisk Parti er et politisk fællesskab med kammeratskab, inspirerende diskussioner og mulighed for at være aktiv sammen med andre. Som medlem får man tilbudt skoling i partiets teoretiske grundlag, der er marxismen-leninismen.
 
 Der er lige rettigheder for alle og et aktivt, reelt medlemsdemokrati samtidig med, at partiets medlemmer kan handle i enhed. For det må ikke blive ved snakken!
-
-Du kan læse mere om Kommunistisk Parti på [kommunister.dk](https://kommunister.dk/).
