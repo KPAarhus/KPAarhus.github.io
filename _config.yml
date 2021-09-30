@@ -22,7 +22,7 @@ baseurl                 : "/"
 minimal_mistakes_skin   : "air"
 search                  : true
 name                    : "Kommunistisk Parti Aarhus"
-logo                    : "/assets/icons/android-chrome-512x512.png"
+logo                    : "/assets/icons/android-chrome-192x192.png"
 #og_image                : "/assets/images/logo.png"  # Skal være min 120*120 og max 1 MB
 date_format             : "%-d/%-m %Y"
 
