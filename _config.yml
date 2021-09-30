@@ -16,9 +16,7 @@
 title                   : Kommunistisk Parti Aarhus
 email                   : cafeoskar@kommunister.dk
 description             : >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Vi er den aarhusianske partiafdeling af Kommunistisk Parti. Vi kæmper for et socialistisk velfærdssamfund med lige rettigheder til alle og et aktivt deltagerdemokrati.
 url                     : "https://kpaarhus.github.io"
 baseurl                 : "/"
 minimal_mistakes_skin   : "air"
@@ -71,14 +69,14 @@ author:
       url: "https://aarhus.kommunister.dk/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: ""
+      url: "https://www.facebook.com/profile.php?id=100069215655528"
 
 
 footer:
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/"
+      url: "https://www.facebook.com/profile.php?id=100069215655528"
 
 defaults:
   # _posts
