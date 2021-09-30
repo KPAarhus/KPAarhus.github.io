@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Læs mere om os"
       url: "/om/"
-  excerpt: "Vi kæmper for et socialistisk velfærdssamfund med lige rettigheder til alle og et aktivt deltagerdemokrati."
+excerpt: "Vi kæmper for et socialistisk velfærdssamfund med lige rettigheder til alle og et aktivt deltagerdemokrati."
 ---
 
 # Hej!
