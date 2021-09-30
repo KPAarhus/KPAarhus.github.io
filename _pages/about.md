@@ -6,6 +6,8 @@ published: true
 
 Vi er den aarhusianske partiafdeling af Kommunistisk Parti. Vi kæmper for et socialistisk velfærdssamfund med lige rettigheder til alle og et aktivt deltagerdemokrati.
 
+Besøg os endelig på vores [Facebook-side](https://www.facebook.com/profile.php?id=100069215655528), hvor du kan følge med i, hvad vi laver. Hvis du har spørgsmål er du velkommen til at skrive til os på Facebook eller sende os en [e-mail](mailto:cafeoskar@kommunister.dk).
+
 Vi driver også [Café Oskar](https://www.facebook.com/cafeoskar) i Mejlgade 49, som har åbent hver fredag fra 15.30 til 17.00.
 
 
