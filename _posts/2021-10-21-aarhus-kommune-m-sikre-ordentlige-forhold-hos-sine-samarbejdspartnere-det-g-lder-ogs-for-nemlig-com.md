@@ -10,6 +10,7 @@ header:
 tags:
   - Kommunalpolitik
   - Fagligt
+last_modified_at: 2021-05-01T00:00:00.000Z
 ---
 På Oliehavnsvej i Aarhus bor Nemlig.com, som leverer dagligvarer lige til døren. Nemlig.com leverer også dagligvarer til rigtig mange i Aarhus og har desuden et samarbejde med  Aarhus Kommune. 
 
