@@ -1,7 +1,7 @@
 main:
   - title: "Hjem"
     url: /
-  - title: "Alle artikler"
-    url: /artikler/
+  - title: "Det mener vi"
+    url: /tags/
   - title: "Om os"
     url: /om/
