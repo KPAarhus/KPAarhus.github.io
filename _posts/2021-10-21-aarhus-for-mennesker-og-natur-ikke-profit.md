@@ -3,8 +3,10 @@ published: true
 title: Aarhus for mennesker og natur - ikke profit
 tags:
   - Kommunalpolitik
+tagline: ""
 header:
   overlay_image: /assets/images/Aeldrepleje2007-PN.jpg
+  overlay_filter: 0.5
 
 ---
 _Kommunistisk Parti i Aarhus stiller ikke op til kommunal- og regionsvalget i 2021, men vil arbejde for at fremme nedenstående krav i valgkampen. Vi opfordrer til at stemme personligt på kandidater, lister eller partier, som bakker op om disse krav._
