@@ -2,6 +2,6 @@ main:
   - title: "Hjem"
     url: /
   - title: "Det mener vi"
-    url: /tags/
+    url: /emner/
   - title: "Om os"
     url: /om/
