@@ -4,7 +4,7 @@ title: Aarhus for mennesker og natur - ikke profit
 tags:
   - Kommunalvalg 2021
 header:
-  overlay_image: /assets/images/Aeldrepleje2007-PN.jpg
+  image: /assets/images/Aeldrepleje2007-PN.jpg
   caption: "Foto: PN"
 
 ---
