@@ -5,6 +5,7 @@ tags:
   - Kommunalvalg 2021
 header:
   - overlay_image: /assets/images/Aeldrepleje2007-PN.jpg
+  - caption: "Foto: PN"
 ---
 _Kommunistisk Parti i Aarhus stiller ikke op til kommunal- og regionsvalget i 2021, men vil arbejde for at fremme nedenstående krav i valgkampen. Vi opfordrer til at stemme personligt på kandidater, lister eller partier, som bakker op om disse krav._
 
