@@ -3,7 +3,6 @@ published: true
 title: Aarhus for mennesker og natur - ikke profit
 tags:
   - Kommunalpolitik
-tagline: ""
 header:
   overlay_image: /assets/images/Aeldrepleje2007-PN.jpg
   overlay_filter: 0.5
