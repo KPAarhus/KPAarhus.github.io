@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: Kommunistisk Parti Aarhus
+title: Kommunistisk Parti Aarhus
 layout: splash
 author_profile: false
 published: true
