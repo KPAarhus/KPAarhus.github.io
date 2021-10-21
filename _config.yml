@@ -106,7 +106,7 @@ defaults:
 #  path: /categories/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /emner/
 
 # Prose.io
 prose:
