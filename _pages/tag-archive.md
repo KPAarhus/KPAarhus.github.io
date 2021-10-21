@@ -1,6 +1,6 @@
 ---
 title: "Emner"
-permalink: /tags/
+permalink: /emner/
 layout: tags
 author_profile: false
 ---
