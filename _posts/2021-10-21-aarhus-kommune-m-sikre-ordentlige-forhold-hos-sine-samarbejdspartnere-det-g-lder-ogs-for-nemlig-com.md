@@ -3,7 +3,6 @@ published: true
 title: >-
   Aarhus Kommune må sikre ordentlige forhold hos sine samarbejdspartnere - det
   gælder også for Nemlig.com
-published_date: 2021-05-01T00:00:00.000Z
 header:
   overlay_image: /assets/images/Vemlig.com-havnen.JPG
   overlay_filter: 0.5
