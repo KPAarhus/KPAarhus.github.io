@@ -26,7 +26,6 @@ Vi skal værne om vores sygehusvæsen. Mere end nogensinde. Derfor skal vi også
 
 
 # Der skal være tilstrækkelige ressourcer til alle, der har brug for behandling og pleje
-
 Gennem det sidste årti er der sket en kraftig udhuling af ressourcer til det danske sundhedsvæsen. Besparelser og effektiviseringskrav har presset arbejdsforholdene til det yderste. Det er sket samtidigt med at markedet har gjort sit indtog på sundhedsområdet.
 
 - Indtil 2010 blev der investeret knap 3 procent i realvækst i sundhedsvæsenet. Det betød, at
@@ -38,7 +37,6 @@ væsenet kunne følge med det stigende behov i befolkningen. Men fra 2010 er der
 
 
 # Budgetloven snyder borgerne for velfærd
-
 Fra 2010 begynder skiftende regeringer at indføre sanktioner, hvis regioner og kommuner bruger flere penge, end regeringens udgiftsramme har fastlagt. 
 
 I 2012 formaliseres denne politik med vedtagelsen af den såkaldte budgetlov, der er en udmøntning af EU's Finanspagt.
@@ -58,7 +56,6 @@ Jævnfør rapport fra Henrik Herløv Lund om Budgetlovens Virkninger, er der fra
 
 
 # Hvordan bruges ressourcerne?
-
 Især tre områder har store konsekvenser for økonomien og kvaliteten i det offentlige sygehusvæsen.
 
 Jo mere, der åbnes op for privathospitaler, jo dyrere bliver det, og jo sværere er det at styre, hvor pengene strømmer hen. Privatiseringen betyder, at der bruges offentlige penge til private firmaers profit. (Se senere om privatiseringen).
@@ -77,14 +74,12 @@ I runde tal skal der investeres 3,5-4 milliarder kroner mere om året frem til 2
 
 
 # Privatiseringen skævvrider grundværdierne i det danske sundhedsvæsen
-
 Markedet har gennem de sidste årtier gjort sit indtog på sundhedsområdet og udvikles i trit med, at det offentlige sygehusvæsen presses mere og mere økonomisk.
 
 Behandlingsgarantien og private sundhedsforsikringer har været med til at fremme privatiseringen. Se fakta længere nede.
 
 
 # Privathospitaler
-
 Ifølge Ugebrevet Mandag Morgen, april 2016, scorer privathospitalerne offentlige opgaver som aldrig før. I 2015 blev knap 130.000 patienter udredt eller behandlet på private hospitaler eller klinikker. Året efter trådte behandlingsgarantien på 30 dage i kraft, og tallet steg yderligere. I avisen "Finans", august 2019 fremgår det, at det offentlige i 2018 lagde 1,5 milliarder hos privathospitalerne.
 
 Med Coronaen er ventetiderne på de offentlige hospitaler øget væsentligt og dermed givet privathospitalerne yderligere vind i sejlet. 
@@ -119,7 +114,6 @@ Derfor må denne udvikling stoppes.
 
 
 # Fakta
-
 ## Behandlingsgaranti
 - Når ventetiden på 30 dage på behandling udløber eller udredningsgarantien på 30 dage overskrides, har patienten ret til behandling på et privat dansk eller udenlandsk hospital, der har indgået aftale om behandling med Danske Regioner.
 - Behandlingsgarantien er blevet en hæmsko for udvikling af det offentlige sundhedsvæsen, da manglende kapacitet i offentligt regi betyder, at der henvises til privat behandling, hvor samme personale har bijob.
@@ -155,8 +149,3 @@ Det er en udvikling, der i høj grad er dikteret af EU: Siden det europæiske se
 Rapporten bruger blandt andet udviklingen i Spaniens sundhedssystem som eksempel: I forbindelse med finanskrisen, måtte Spanien underskrive en låneaftale med EU. EU krævede som led i aftalen, at Spanien skulle gøre sundhedssektoren mere omkostningseffektiv. Ifølge et notat fra Amnesty International's afdeling i Spanien førte loven til, at antallet af ansatte i Spaniens offentlige sundhedssystem blev reduceret med 28.500 i perioden fra 2012 til 2014 – ud af i alt 477.000 ansatte.
 
 EU har også stillet lignende krav om nedskæringer i de offentlige sundhedsbudgetter til eksempelvis Grækenland og Portugal. Også hér har resultatet været store forringelser i sundhedssektoren.
-
-
-
-
-
