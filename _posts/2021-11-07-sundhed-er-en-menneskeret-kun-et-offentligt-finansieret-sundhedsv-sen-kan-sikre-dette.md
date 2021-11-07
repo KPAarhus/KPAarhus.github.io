@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: >-
   Sundhed er en menneskeret - kun et offentligt finansieret sundhedsvæsen kan
   sikre dette
@@ -8,7 +8,7 @@ tags:
   - Kommunalpolitik
   - Sundhed
 header:
-  overlay_image: /assets/images/Aeldrepleje2007-PN.jpg
+  overlay_image: /assets/images/Skejby-2008-PN.JPG
   overlay_filter: 0.5
 ---
 Coronapandemien har med al tydelighed vist, hvorfor det er helt nødvendigt at have et stærkt
