@@ -17,7 +17,7 @@ title                   : Kommunistisk Parti Aarhus
 email                   : cafeoskar@kommunister.dk
 description             : >- # this means to ignore newlines until "baseurl:"
   Vi er den aarhusianske partiafdeling af Kommunistisk Parti. Vi kæmper for et socialistisk velfærdssamfund med lige rettigheder til alle og et aktivt deltagerdemokrati.
-url                     : "https://kpaarhus.github.io"
+url                     : "https://aarhus.kommunister.dk/"
 baseurl                 : "/"
 minimal_mistakes_skin   : "air"
 search                  : true
@@ -111,7 +111,7 @@ tag_archive:
 # Prose.io
 prose:
   rooturl: '_posts'
-  #siteurl: 'http://prose.github.io/starter/'
+  siteurl: 'https://aarhus.kommunister.dk/'
   #relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'assets/images'
   metadata:
