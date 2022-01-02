@@ -21,6 +21,7 @@ url                     : "https://aarhus.kommunister.dk/"
 baseurl                 : "/"
 minimal_mistakes_skin   : "air"
 search                  : true
+search_full_content     : true
 name                    : "Kommunistisk Parti Aarhus"
 logo                    : "/assets/icons/android-chrome-192x192.png"
 teaser                  : "/assets/images/banner.jpg"
